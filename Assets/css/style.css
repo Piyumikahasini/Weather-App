@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url(https://images.alphacoders.com/132/1321760.jpeg);
+  background-image: url("Assets/images/back.jpeg");
   background-size: cover;
   background-position: center;
   overflow: hidden;
