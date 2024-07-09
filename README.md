@@ -9,10 +9,10 @@ The Weather App is a web application that provides current weather information f
 ## Installation
 To install and run the Weather App on your local machine, follow these steps:
 
-- Clone the repository: git clone https://github.com/yourusername/weather-app.git
+- Clone the repository: git clone [https://github.com/yourusername/weather-app.git](https://github.com/Piyumikahasini/Weather-App.git)
 
-
-
+  ## License
+  This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 <img width="320" alt="Capture" src="https://github.com/Piyumikahasini/Weather-App/assets/125721766/1560f198-bc8a-4e10-ae5b-c644c9fa6a34">
